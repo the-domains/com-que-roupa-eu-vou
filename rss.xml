@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Com Que Roupa Eu Vou]]></title>
+        <description><![CDATA[Com Que Roupa Eu Vou]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 05:11:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CARTELA DO CHAPELEIRO]]></title>
+            <description><![CDATA[<article><h1>CARTELA DO CHAPELEIRO</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/46fe0baf73b8f64d5be8b487be25f867/croprotate.jpg?cropheight=1334&cropwidth=2402&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4619e343-8b2a-439c-9164-dc947cfc929a.jpg&x=38&y=0"></article>]]></description>
+            <link>undefinedcartela-do-chapeleiro/index.html</link>
+            <guid isPermaLink="false">5ed85e90-13a7-4779-b4d2-dfcd34ee4ff2</guid>
+            <pubDate>Sun, 10 Jul 2016 05:11:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
