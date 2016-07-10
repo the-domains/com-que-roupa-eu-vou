@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-10T06:53:59.365Z'
+datePublished: '2016-07-10T06:54:14.455Z'
 sourcePath: _posts/2016-07-10-cartela-do-chapeleiro.md
 author: []
-dateModified: '2016-07-10T06:49:07.423Z'
+dateModified: '2016-07-10T06:54:13.720Z'
 title: CARTELA DO CHAPELEIRO
 description: >-
   A Exposição de Arte de Bylucas oferece aos visitantes a possibilidade de
@@ -15,7 +15,7 @@ description: >-
   uma composição de 15 obras, relacionadas com o universo de Salvador Dali,
   Frida Kahlo, Caveiras Mexicanas e referências musicais da preferência de
   Bylucas. 
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
